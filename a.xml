@@ -1,0 +1,12 @@
+<!-- Aggregate Identifier XML for SierraComix' "Nagisa Reader". -->
+<Aggregate>
+  <Name>My Future Translations bootlegger mirror</Name>
+  <!--<Mirrors>
+    <!-- Multiple mirrors are supported, though only for if the main is down. -->
+    <mirr>https://boredstudent13255.github.io/nagisa-mft/</mirr>
+  </Mirrors>-->
+  <Relatives>
+    <!-- Meant for promoting similar scanlators or aggregates. While I would love to have a discover page, I can't promise it- so this is the next best thing. -->
+    <oe>https://boredstudent13255.github.io/nagisa-aoishoujo/a.xml</oe>
+  </Relatives>
+</Aggregate>
