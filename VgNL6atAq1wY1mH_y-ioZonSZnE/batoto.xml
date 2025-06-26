@@ -1,0 +1,59 @@
+<!-- Mirror Pointer XML for SierraComix' "Nagisa Reader". -->
+<!-- Mirror XML is to be organized by screen. There's a few types of screen. -->
+<mirror name="Batoto" url="https://bato.to/chapter/3429220">
+  <screen type="ds-orphaned">
+    <page-1>https://n11.mbwnp.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044165_1115_1600_226916.webp</page-1>
+  </screen>
+  <screen type="dualscreen">
+    <page-0>https://n25.mbtmv.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044164_1115_1600_206026.webp</page-0>
+    <page-1>https://n23.mbzcp.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044162_1115_1600_152720.webp</page-1>
+  </screen>
+  <screen type="dualscreen">
+    <page-0>https://n20.mbwww.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044163_1115_1600_192022.webp</page-0>
+    <page-1>https://n09.mbimg.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044166_1115_1600_269542.webp</page-1>
+  </screen>
+  <screen type="dualscreen">
+    <page-0>https://n02.mbdny.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044172_1115_1600_241750.webp</page-0>
+    <page-1>https://n05.mbznp.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044167_1115_1600_186412.webp</page-1>
+  </screen>
+  <screen type="dualscreen">
+    <page-0>https://n21.mbzcp.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044169_1115_1600_222458.webp</page-0>
+    <page-1>https://n15.mbimg.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044168_1115_1600_260352.webp</page-1>
+  </screen>
+  <screen type="dualscreen">
+    <page-0>https://n15.mbmyj.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044170_1115_1600_249146.webp</page-0>
+    <page-1>https://n15.mbwbm.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044173_1115_1600_180352.webp</page-1>
+  </screen>
+  <screen type="dualscreen">
+    <page-0>https://n11.mbtmv.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044175_1115_1600_208304.webp</page-0>
+    <page-1>https://n19.mbhiz.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044176_1115_1600_225966.webp</page-1>
+  </screen>
+  <screen type="dualscreen">
+    <page-0>https://k07.mbznp.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044183_1115_1600_284278.webp</page-0>
+    <page-1>https://n02.mbtmv.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044179_1115_1600_234182.webp</page-1>
+  </screen>
+  <screen type="dualscreen">
+    <page-0>https://n28.mbuul.org/media/mbch/e86/68599822ffaa7465eb0d368e/95128014_489_703_57620.webp</page-0>
+    <page-1>https://n19.mbzcp.org/media/mbch/e86/68599822ffaa7465eb0d368e/95127972_489_703_94826.webp</page-1>
+  </screen>
+  <screen type="dualscreen">
+    <page-0>https://n30.mbuul.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044180_1115_1600_186826.webp</page-0>
+    <page-1>https://n16.mbimg.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044182_1115_1600_188354.webp</page-1>
+  </screen>
+  <screen type="dualscreen">
+    <page-0>https://k07.mbimg.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044181_1115_1600_167008.webp</page-0>
+    <page-1>https://k01.mbrtz.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044184_1115_1600_198912.webp</page-1>
+  </screen>
+  <screen type="dualscreen">
+    <page-0>https://n23.mbznp.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044186_1115_1600_265900.webp</page-0>
+    <page-1>https://n03.mbznp.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044189_1115_1600_238752.webp</page-1>
+  </screen>
+  <screen type="dualscreen">
+    <page-0>https://n26.mbfpu.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044188_1115_1600_168866.webp</page-0>
+    <page-1>https://k00.mbxma.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044190_1115_1600_222732.webp</page-1>
+  </screen>
+  <screen type="dualscreen">
+    <page-0>https://n17.mbeaj.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044196_1115_1600_227196.webp</page-0>
+    <page-1>https://n11.mbeaj.org/media/mbch/e86/68599822ffaa7465eb0d368e/95044197_1115_1600_269642.webp</page-1>
+  </screen>
+</mirror>
