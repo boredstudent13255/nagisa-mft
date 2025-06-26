@@ -2,12 +2,12 @@
 <!-- Mirror XML is to be organized by screen. There's a few types of screen. -->
 <mirror name="MangaPark" url="https://mangapark.net/title/77439-en-i-m-in-love-with-the-villainess/9746704-vol-6-ch-30-1">
   <screen type="doublewide">
-    <page-1>https://s06.mpujj.org/media/5003/f49/685c4e03f968c583127e094f/43463309_2900_2080_1593127.jpeg</page>
+    <page-0>https://s06.mpujj.org/media/5003/f49/685c4e03f968c583127e094f/43463309_2900_2080_1593127.jpeg</page-0>
   </screen>
   <screen type="doublewide">
-    <page-1>https://s05.mpfip.org/media/5003/f49/685c4e03f968c583127e094f/43463317_2900_2080_1772008.jpeg</page>
+    <page-0>https://s05.mpfip.org/media/5003/f49/685c4e03f968c583127e094f/43463317_2900_2080_1772008.jpeg</page-0>
   </screen>
   <screen type="doublewide">
-    <page-1>https://s03.mpujj.org/media/5003/f49/685c4e03f968c583127e094f/43463323_2900_2080_903781.jpeg</page>
+    <page-0>https://s03.mpujj.org/media/5003/f49/685c4e03f968c583127e094f/43463323_2900_2080_903781.jpeg</page-0>
   </screen>
 </mirror>
